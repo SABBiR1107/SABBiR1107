@@ -4,19 +4,22 @@ Welcome to my GitHub profile! I’m an aspiring Data Scientist and Data Analyst,
 
 ## 🚀 About Me
 - **Profession:** Software Engineering Student
-- **Interests:** Data Science, Data Analytics, Django, PHP (Laravel)
+- **Interests:** Data Analysis and Data Science, Python(Django) with RestAPI, PHP(Laravel) with GraphQL
 - **Location:** Ashulia
 
 ## 💡 Top Skills
 - Data Science & Analytics
-- Django (Python)
-- PHP (Laravel)
+- Python(Django) with RestAPI
+- PHP(Laravel) with GraphQL
 - Web Development
 - Problem Solving
 
 ## 🌟 Favorite Projects
 Explore my repositories for work on data science, web apps, and more!  
-*(Add your favorite project links here for even more personalization!)*
+....
+...
+..
+.
 
 ## 📫 Connect with Me
 - [GitHub Profile](https://github.com/SABBiR1107)
