@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Md. Ahsanur Rahman (SABBiR1107)
 
-<!--
-**SABBiR1107/SABBiR1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Daffodil International University  
+💻 Interested in Data Science, Machine Learning, and Web Development  
 
-Here are some ideas to get you started:
+## 🧰 Skills
+- Python, Java, JavaScript, PHP  
+- Django, Laravel, React, Supabase  
+- Data Analysis (pandas, scikit-learn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SABBiR1107&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SABBiR1107&layout=compact&theme=radical)
+
+## 🌐 Links
+- Portfolio: [your-portfolio-url](https://your-portfolio-url)
+- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- Email: your.email@example.com
