@@ -1,41 +1,19 @@
-# 👋 Hi there, I'm Md.Ahsanur Rahman (SABBiR1107)!
+# Professional Profile
 
-Welcome to my GitHub profile! I’m an aspiring Data Scientist and Data Analyst, currently pursuing Software Engineering. I’m passionate about data-driven solutions, web development, and building impactful projects.
+## Projects
 
-## 🚀 About Me
-- **Profession:** Software Engineering Student
-- **Interests:** Data Analysis and Data Science, Python(Django) with RestAPI, PHP(Laravel) with GraphQL
-- **Location:** Ashulia
+1. **Data Science Project**: Analyzed large datasets to extract insights using Python and SQL.
+2. **Machine Learning Model**: Developed predictive models to forecast trends using libraries like scikit-learn.
+3. **Web Development**: Built responsive web applications using HTML, CSS, JavaScript, and frameworks like React.
 
-## 💡 Top Skills
-- Data Science & Analytics
-- Python(Django) with RestAPI
-- PHP(Laravel) with GraphQL
-- Web Development
-- Problem Solving
+## Skills
 
-## 🌟 Favorite Projects
-Explore my repositories for work on data science, web apps, and more!  
-....
-...
-..
-.
+- **Programming Languages**: Python, R, JavaScript
+- **Data Science Tools**: Pandas, NumPy, Matplotlib
+- **Machine Learning Frameworks**: TensorFlow, Keras, scikit-learn
+- **Web Technologies**: HTML, CSS, React, Node.js
+- **Database Management**: SQL, MongoDB
 
-## 📫 Connect with Me
-- [GitHub Profile](https://github.com/SABBiR1107)
+## Contact
 
-## 🏆 GitHub Stats
-![SABBiR1107's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SABBiR1107&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SABBiR1107&layout=compact&theme=radical)
-
-## ✨ Fun Facts
-- Always curious to learn new tech!
-- Actively collaborating and contributing to open-source.
-
----
-
-> “Aspiring to turn data into actionable insights.”
-
----
-
-Thanks for visiting! Feel free to check out my repositories and connect with me.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [GitHub](https://github.com/SABBiR1107) for collaborations or inquiries!
