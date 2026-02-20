@@ -1,25 +1,101 @@
-# README
+# 👋 Hi, I’m **Md. Ahsanur Rahman (SABBiR1107)**
 
-## About Me
-Welcome to my profile! I am a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and building applications that make a difference.
+Aspiring Data Scientist | Data Analyst | Software Engineering Student  
+📍 Ashulia, Bangladesh
 
-## Skills
-- Programming Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, VS Code
-- Databases: PostgreSQL, MongoDB
+Welcome to my GitHub profile 👨‍💻. I build data-driven solutions, analytical tools, and full-stack projects using Python, JavaScript, Django, Laravel, SQL, and machine learning. My work covers data analysis, predictive modeling, NLP, dashboards, and web development.
 
-## Projects
-1. **Project One**: A brief description of Project One.
-2. **Project Two**: A brief description of Project Two.
-3. **Project Three**: A brief description of Project Three.
+---
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SABBiR1107&show_icons=true&theme=radical)
+## 🎯 What I Do
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sabbi-r1107)
-- [Twitter](https://twitter.com/sabbi_r1107)
+- 📊 **Data Science & Machine Learning** – Exploratory data analysis, statistical modeling, and machine learning for business insights and predictions.
+- 🧠 **NLP & Text Analytics** – Projects focusing on resume matching, recommendation systems, and natural language processing.
+- 📈 **Dashboards & Visualizations** – Interactive data dashboards using Python and web tech.
+- 🛠 **Web Development** – Frontend and backend projects with HTML, CSS, JavaScript, Django & Laravel.
+- 🗃 **Databases & SQL Analytics** – Structured data analysis using SQL for business intelligence.
 
-## Contribution Overview
-I contribute to various open-source projects and actively participate in community discussions. Check out my contributions!
+---
+
+## 📂 Featured Projects
+
+### 📊 Data Science / Machine Learning
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| **Website-Traffic-Analysis-Project** | Jupyter Notebook | Analyze website traffic patterns and insights. |
+| **Financial-Expense-Tracker-Analysis** | Jupyter Notebook | Expense trend identification and financial insights. |
+| **Credit-Card-Fraud-Detection-System** | Jupyter Notebook | ML model for detecting fraudulent transactions. |
+| **spam-email-detector** | Jupyter Notebook | NLP-based classification of spam emails. |
+| **sales-forecasting-analysis** | Jupyter Notebook | Forecast retail sales using time series techniques. |
+| **SVM_Project_Using_Breast_Cancer** | Jupyter Notebook | Classification model for breast cancer dataset. |
+| **SSC-Exam-Result-Trends-in-Bangladesh-2001-2025** | Jupyter Notebook | Educational performance trend analysis using historical data. |
+
+---
+
+### 📌 Web & Full-Stack Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| **Website-Traffic-Dashboard** | HTML | Static analytics traffic dashboard demo. |
+| **E-commerceProject** | Jupyter Notebook | E-commerce data analytics example. |
+| **university-association-management** | HTML | Web UI for managing university associations. |
+| **Expense-TrackerWebApp** | Web | Finance dashboard and tracker interface. |
+| **restaurant-management-system-using-django** | HTML, Django | Restaurant management web application (full-stack). |
+| **Tour-Management-with-Expense-Tracking** | JavaScript | Travel planner with cost tracking. |
+| **Portfolio** | CSS / HTML | Personal portfolio website. |
+
+---
+
+### 📈 NLP, Tools & Utilities
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| **career-recommender-usingNLP** | Python | Career suggestion system using NLP. |
+| **Resume-Matcher-Using-NLP** | Python | Match resumes with job criteria using text metrics. |
+| **resumemtc** | Python | Resume metric analyzer & text toolkit. |
+| **AI-Assistant-Usage-in-Student-Life-Data-Analysis** | Jupyter Notebook | Study on AI assistant pattern usage by students. |
+
+---
+
+### 🧪 Other Projects / Learning
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| **bd-hospital-finder** | TypeScript | Hospital search tool in Bangladesh. |
+| **Linear-Regression** | Python | Simple regression modeling example. |
+| **FRM_Segmentation_using_SQL** | SQL | Customer segmentation using SQL approaches. |
+| **Customer-segmentation-using-clustering** | Python | Data clustering for segmentation tasks. |
+| **document-summarizer-with-chat** | HTML / JS | Text summarization interface prototype. |
+| **movie-recommendation-api** | Python | Backend API for movie recommendations. |
+| **islamic-quotes** | TypeScript | Quotes web UI project. |
+
+---
+
+## 🛠 Skills & Tools
+
+| Domain | Tools |
+|--------|-------|
+| **Data Science & ML** | Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy |
+| **NLP & Text Analytics** | Python, NLTK, spaCy |
+| **Web Development** | HTML, CSS, JavaScript, Django, Laravel |
+| **Databases & BI** | SQL, PostgreSQL, MySQL |
+| **Version Control** | Git & GitHub |
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/SABBiR1107  
+- 📬 Email: *(add your email here)*  
+- 💼 LinkedIn: *(add LinkedIn URL)*
+
+---
+
+## ⭐ Why Follow My Work
+
+I’m passionate about solving real-world problems using data and building intuitive apps and dashboards. My repositories demonstrate step-by-step approaches to analytics, modeling, and full-stack software delivery for both research and production purposes.
+
+Let’s build something awesome together 🚀
+
+---
