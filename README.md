@@ -1,19 +1,25 @@
-# Professional Profile
+# README
 
-## Projects
-
-1. **Data Science Project**: Analyzed large datasets to extract insights using Python and SQL.
-2. **Machine Learning Model**: Developed predictive models to forecast trends using libraries like scikit-learn.
-3. **Web Development**: Built responsive web applications using HTML, CSS, JavaScript, and frameworks like React.
+## About Me
+Welcome to my profile! I am a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and building applications that make a difference.
 
 ## Skills
+- Programming Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, VS Code
+- Databases: PostgreSQL, MongoDB
 
-- **Programming Languages**: Python, R, JavaScript
-- **Data Science Tools**: Pandas, NumPy, Matplotlib
-- **Machine Learning Frameworks**: TensorFlow, Keras, scikit-learn
-- **Web Technologies**: HTML, CSS, React, Node.js
-- **Database Management**: SQL, MongoDB
+## Projects
+1. **Project One**: A brief description of Project One.
+2. **Project Two**: A brief description of Project Two.
+3. **Project Three**: A brief description of Project Three.
 
-## Contact
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SABBiR1107&show_icons=true&theme=radical)
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [GitHub](https://github.com/SABBiR1107) for collaborations or inquiries!
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sabbi-r1107)
+- [Twitter](https://twitter.com/sabbi_r1107)
+
+## Contribution Overview
+I contribute to various open-source projects and actively participate in community discussions. Check out my contributions!
