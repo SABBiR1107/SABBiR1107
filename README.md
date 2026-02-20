@@ -92,8 +92,8 @@ To become a professional **Data Scientist / AI Engineer**, building intelligent 
 ## 📫 Connect With Me
 
 - 🌐 GitHub: https://github.com/SABBiR1107
-- 💼 LinkedIn: *(Add your LinkedIn here)*
-- 📧 Email: *(Add your email here)*
+- 💼 LinkedIn: [*(Add your LinkedIn here)*](https://www.linkedin.com/in/md-ahsanur-rahman-sabbir1107/)
+- 📧 Email: ahsanursabbir@gmail.com
 
 ---
 
